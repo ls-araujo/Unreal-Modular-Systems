@@ -1,0 +1,17 @@
+# Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# VS Code / Visual Studio
+.vscode/
+.vs/
+*.sln
+*.suo
+*.db
+*.opendb
+
+# Outros
+.DS_Store
